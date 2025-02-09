@@ -1,36 +1,4 @@
-The Project Gutenberg eBook, Mysterious Japan, by Julian Street
-
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions 
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at 
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-
-
-
-Title: Mysterious Japan
-
-
-Author: Julian Street
-
-
-
-Release Date: September 7, 2018  [eBook #57861]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-
-***START OF THE PROJECT GUTENBERG EBOOK MYSTERIOUS JAPAN***
-
-
-E-text prepared by MFR, Ernest Schaal, and the Online Distributed
-Proofreading Team (http://www.pgdp.net) from page images generously made
-available by Internet Archive (https://archive.org)
+*** START OF THE PROJECT GUTENBERG EBOOK 57861 ***
 
 
 
@@ -83,7 +51,7 @@ MYSTERIOUS JAPAN
         THE MOST INTERESTING AMERICAN
             (_A close-range study of Theodore Roosevelt_)
 
-        PARIS à LA CARTE
+        PARIS Ã  LA CARTE
 
         SHIP-BORED
 
@@ -185,7 +153,7 @@ First Edition
 
       IX. THE NATIONAL SPORT     .   .   .   .   .   .   .   .   103
 
-       X. ON SAKé AND ITS EFFECTS    .   .   .   .   .   .   .   115
+       X. ON SAKÃ© AND ITS EFFECTS    .   .   .   .   .   .   .   115
 
       XI. DIET AND DANCING   .   .   .   .   .   .   .   .   .   127
 
@@ -265,7 +233,7 @@ First Edition
     No one without a sweet nature could smile the smile of one
     of these tea-house maids     .   .   .   .   .   .   .   .   118
 
-    Family luncheon à la Japonaise   .   .   .   .   .   .   .   134
+    Family luncheon Ã  la Japonaise   .   .   .   .   .   .   .   134
 
     Kimi-chiyo was at almost every Japanese-style party
     I attended   .   .   .   .   .   .   .   .   .   .   .   .   154
@@ -523,7 +491,7 @@ many stories as had been reported to him.
 
 In his fear of revolution or invasion the Emperor built a palace
 adjoining the American legation. And when, as happened now and then,
-there came a _coup d'état_, threatening his personal safety, he would
+there came a _coup d'Ã©tat_, threatening his personal safety, he would
 get a ladder and climb over the wall separating the back yard of the
 palace from that of the American minister. This occurring frequently, so
 embarrassed the latter, that in order to put an end to His Majesty's
@@ -715,7 +683,7 @@ have never ascended Fuji and those who have ascended twice." To this
 category I would add a third kind of fool, the greatest of them all: the
 fool who fails to appreciate the spectacle of Fuji. A creature who would
 be disappointed in Fuji would be disappointed in any spectacle, however
-grand--be it the Grand Cañon, the Grand Canal, or the Grand Central
+grand--be it the Grand CaÃ±on, the Grand Canal, or the Grand Central
 Station.
 
 
@@ -989,7 +957,7 @@ trend. It is conveniently arranged and impressive in its magnitude as
 seen across the open space on which it faces, but there its merit stops.
 Like most large foreign-style buildings in Japan, it is architecturally
 an ugly thing. Standing at the gate of Japan's chief city, it has about
-it nothing Japanese. Its façade is grandiose and meaningless, and as one
+it nothing Japanese. Its faÃ§ade is grandiose and meaningless, and as one
 turns one's back upon it and sees other large new public structures, one
 is saddened by the discovery that the Japanese, skilful at adaptation
 though they have often shown themselves, have signally failed to adapt
@@ -1115,7 +1083,7 @@ less prettily than other women of her class. The lines she cannot
 change. The fabrics are prescribed. The colours are restricted in
 accordance with her age. Her dress, like almost every other detail of
 her daily life, is regulated by a rigid code. If she be middle-aged and
-fat she cannot make herself absurd by dressing as a débutante. If she be
+fat she cannot make herself absurd by dressing as a dÃ©butante. If she be
 thin she cannot wear an evening gown cut down in back to show a spinal
 column like a string of wooden beads. Nor can she spend a fortune upon
 earrings, bracelets, necklaces. She may have some pretty ornamental
@@ -1363,7 +1331,7 @@ stumbling now upon an ancient wayside shrine, now upon a shop full of
 users of such pipes, and _netsuke_ (large buttons for attaching
 pipe-cases and pouches to the sash) carved in delightfully fantastic
 forms; now upon a tea-shop full of tall coloured earthenware urns,
-shaped like the amphoræ of ancient Rome and marked with baffling black
+shaped like the amphorÃ¦ of ancient Rome and marked with baffling black
 ideographs. Now I would discover a tea-house on the brink of a stream,
 its balconies abloom with little geisha, its portals protected from
 impurity by three small piles of salt; now it would be a geisha quarter
@@ -1569,7 +1537,7 @@ of wood and paper, are wide open, but at night they are enclosed with
 solid board shutters and people sleep practically without ventilation.
 At the door of a theatre or a restaurant the Japanese check their shoes
 instead of their hats; their sweets, if they come at all, are served
-early in the meal instead of toward the end; men do their _saké_
+early in the meal instead of toward the end; men do their _sakÃ©_
 drinking before rather than after the meal, and instead of icing the
 national beverage they heat it in a kettle. Action in the theatre is
 modelled not on life but on the movements of dolls in marionette shows,
@@ -2024,7 +1992,7 @@ understanding of Flower Arrangement you meet some one who does not
 follow the tenets of the particular school of Flower Arrangement you
 have heard about--which, let us say, is the popular Ikenobo school--but
 believes in the teachings of the Enshiu school, the Koriu school, or the
-Nagéire--"thrown in"--school. Or perhaps he favours the kindred art
+NagÃ©ire--"thrown in"--school. Or perhaps he favours the kindred art
 called Morimono--"things-piled-up"--which deals with compositions of
 fruit and vegetables; or the Morihana school, which applies the
 "things-piled-up" principle to flowers; or that other kindred art which
@@ -2251,13 +2219,13 @@ not wanting others to deny the existence of any such spirituality as Sir
 Charles describes, and who, instead, harp upon the alleged Prussianism
 of Japan as explaining everything.
 
-Doctor Nitobé, the gifted Japanese author, who, like Okakura, writes
+Doctor NitobÃ©, the gifted Japanese author, who, like Okakura, writes
 delightfully in English, gives us as the key to Japan the doctrine of
 _bushido_, or "military knight ways"; but again there are students of
 Japan who affirm that the system of practical ethics attributed by the
 doctor's patriotic pen to the samurai of old, would astound those
 doughty warriors could they hear of it. The book "Bushido," declare
-these critics, is less a key to Japan than to Doctor Nitobé.
+these critics, is less a key to Japan than to Doctor NitobÃ©.
 
 Is not the interdependence of facts, of which I spoke earlier,
 illustrated in the trend of this chapter, all of which, remember, grew
@@ -2690,7 +2658,7 @@ reason that trained nurses receive from $1 to $1.25 per day, which is
 considered good pay.
 
 Until ten or a dozen years ago there were no actresses in Japan, female
-rôles invariably having been played by men, but the octogenarian Baron
+rÃ´les invariably having been played by men, but the octogenarian Baron
 Shibusawa (lately created Viscount), who has done so much toward
 liberalizing the thought of Japan in many lines, founded a school for
 actresses, with the result that there is now a place for them, and that
@@ -2698,7 +2666,7 @@ a few have come to be well known, although none is as yet so popular as
 are the best-known actors. Actors hold in Japan a social position
 similar to that held by Occidental players a century or more ago. They
 are distinctly a lower caste, and while they are admired for their art,
-and are adored by young girls as matinée idols are with us, they are
+and are adored by young girls as matinÃ©e idols are with us, they are
 considered as belonging to a social stratum in which geisha and
 wrestlers figure.
 
@@ -2845,7 +2813,7 @@ purpose of teaching young husbands and wives how to enjoy social life
 together, and there is no doubt that in fashionable society the better
 type of modern young husband treats his wife with much more
 consideration and courtesy, and makes much more a companion of her, than
-was customary or even possible under the old régime. Twenty-five years
+was customary or even possible under the old rÃ©gime. Twenty-five years
 ago it was well enough for a man to walk on the street with a geisha,
 but the man who walked in public with his wife was jeered at, and might
 even find himself a target for missiles. Though that is no longer the
@@ -3163,7 +3131,7 @@ closed.
     _The Courageous Congressmen--Geisha and Nesan--The Maple
     Club--The Gentleness of Servants--Removable Walls--Dancing
     Girls--A Lesson in the Use of Chopsticks--"Truthful Girl"--A
-    Toast in Saké--Drunkenness--My Friend the Amiable Inebriate--The
+    Toast in SakÃ©--Drunkenness--My Friend the Amiable Inebriate--The
     Great Rice-Ball Mystery_
 
 
@@ -3187,8 +3155,8 @@ persons--about half of them Americans--given by a Tokyo gentleman for
 the purpose of showing us what a purely Japanese luncheon was like. It
 was held at the Maple Club, a large, rambling Japanese-style building
 standing in charming gardens in the midst of one of the Tokyo parks--a
-Far Eastern equivalent of such Parisian restaurants as the Café
-d'Armenonville or the Pré Catelan.
+Far Eastern equivalent of such Parisian restaurants as the CafÃ©
+d'Armenonville or the PrÃ© Catelan.
 
 As we alighted from our rickshas a flock of smiling serving maids
 appeared in the doorway to greet us, indicating to us that we were to
@@ -3299,7 +3267,7 @@ Since few geisha speak English, and very few Americans speak Japanese,
 we travellers from abroad are rather outsiders with the geisha, and our
 appreciation of them must be largely ocular. But a geisha can come as
 near to carrying on a wordless conversation as any woman can. Mine
-smiled at me, filled my shallow little cup with warm saké from time to
+smiled at me, filled my shallow little cup with warm sakÃ© from time to
 time, and showed me how to use my chop-sticks. I found the lesson most
 agreeable, and was presently rewarded by being told, through the
 Japanese friend at my side, that for a beginner I was doing very well.
@@ -3314,7 +3282,7 @@ is a small soft towel which is brought to one warm and damp, in a little
 basket. It is used on the face and hands as a wash-cloth and is then
 removed.
 
-    [Illustration: Family luncheon à la Japonaise. The serving maid
+    [Illustration: Family luncheon Ã  la Japonaise. The serving maid
     is kneeling in the corner at the back. If you would essay eating
     with chopsticks, try it with a pair of heavy knitting needles]
 
@@ -3342,44 +3310,44 @@ pretty ones, whereat they both giggled.
 By this time we had established an _entente_ so cordial that it seemed
 fitting that we should drink to each other. Aided by the gentleman at my
 side and by Jitsuko, I learned the proper formalities of this ceremony.
-First I rinsed my saké cup in a lacquer bowl provided for the purpose,
+First I rinsed my sakÃ© cup in a lacquer bowl provided for the purpose,
 then passed it to Jitsuko. The preliminary rinsing indicated that she
 was now to fill the cup and drink. Had I passed it to her without
 rinsing, it would have meant that she was to refill it for me--for a
-geisha never "plies" one with saké but waits for the cup to be passed.
-When she had sipped the saké she in turn rinsed the cup, refilled it,
+geisha never "plies" one with sakÃ© but waits for the cup to be passed.
+When she had sipped the sakÃ© she in turn rinsed the cup, refilled it,
 and handed it to me to drink. Thus the friendly rite was completed.
 
-I had heard that saké was extremely intoxicating, but that is not so. It
+I had heard that sakÃ© was extremely intoxicating, but that is not so. It
 is rice wine, almost white in colour, and is served sometimes at normal
 temperature and sometimes slightly warm. It is rather more like a pale
 light sherry than any other Occidental beverage, but it lacks the full
 flavour of sherry, having a mild and not unpleasant flavour all its own.
-On the whole I rather liked saké, and I found myself able to detect the
-difference between ordinary saké and saké that was particularly good.
+On the whole I rather liked sakÃ©, and I found myself able to detect the
+difference between ordinary sakÃ© and sakÃ© that was particularly good.
 While on this subject I may add that liquor of all sorts flows freely in
-Japan. Saké is the one alcoholic beverage generally served with meals in
+Japan. SakÃ© is the one alcoholic beverage generally served with meals in
 the Japanese style, but at the European-style luncheons and dinners I
 attended two or three kinds of wine were usually served, and there were
 cocktails before and sometimes liqueurs afterward. The Japanese have
 also taken up whisky-drinking to some extent. They import Scotch whisky
-and also make a bad imitation Scotch whisky of their own. But saké still
+and also make a bad imitation Scotch whisky of their own. But sakÃ© still
 reigns supreme as the national alcoholic drink, and when you see a
-Japanese intoxicated you may be pretty sure that saké--a lot of
-saké--did it.
+Japanese intoxicated you may be pretty sure that sakÃ©--a lot of
+sakÃ©--did it.
 
 In my evening strolls, particularly in the gay, crowded district of
 Asakusa Park in Tokyo--a Japanese Coney Island, full of theatres,
 motion-picture houses, animal shows, conjuring exhibitions, teahouses,
 bazaars and the like, surrounding a great Buddhist temple--I saw many
 intoxicated men, but I never came upon one who was ugly or troublesome.
-Whether because of some quality in the Japanese nature, or in the saké,
+Whether because of some quality in the Japanese nature, or in the sakÃ©,
 this drink seems only to make gay, talkative and sometimes boisterous
 those who have taken too much of it. I should not be surprised if the
 Japanese need alcoholic stimulants rather more than other races need
 them. For one thing the climate of Japan, except in the mountains, is
 enervating; and for another, the Japanese nature is generally repressed,
-and saké tends to liberate it.
+and sakÃ© tends to liberate it.
 
 I noticed this at another entertainment in Tokyo--a dinner of newspaper
 editors. Being the only foreigner there, and being enormously interested
@@ -3389,12 +3357,12 @@ theirs. But although I sensed that they did not agree with all I said,
 their responses exhibited only the sort of polite tolerance that a
 courteous host will show a somewhat obstreperous guest. For some time I
 felt that I had acted like a bad boy at a party. But after the geisha
-had filled our cups with saké more than once, I got what I was looking
+had filled our cups with sakÃ© more than once, I got what I was looking
 for--an argument. It was a polite argument, but we had become friendly
-enough to speak frankly. _In saké veritas._
+enough to speak frankly. _In sakÃ© veritas._
 
-This was a case of just enough saké, but so far as I was able to
-observe, even too much saké produces no very objectionable results. I
+This was a case of just enough sakÃ©, but so far as I was able to
+observe, even too much sakÃ© produces no very objectionable results. I
 shall never forget the young man, brightly illuminated with this
 beverage, who came up to me one evening on the street, in a small town.
 He was full of a desire to practise English on me and to help me. He
@@ -3460,7 +3428,7 @@ Giggling, she shook her head.
 "But Yuki--I don't understand. What's the joke?"
 
 Shaking with merriment she whispered to my wife. It developed that the
-saké-inspired Japanese had presented me with a tidbit specially prepared
+sakÃ©-inspired Japanese had presented me with a tidbit specially prepared
 for prospective mothers.
 
 All things considered it seemed advisable to get rid of it at once. I
@@ -3507,7 +3475,7 @@ menu was as follows:
                               SECOND TABLE
 
                       _Hors d'oeuvres--Vegetables_
-                            _Fish consommé_
+                            _Fish consommÃ©_
                              _Grilled eels_
                                  _Rice_
                           _Pickled vegetables_
@@ -3615,7 +3583,7 @@ expression.
 One thing that sometimes makes the stranger in Japan slow to appreciate
 the dancing of geisha, is the very fact that it is called dancing; for
 the term suggests to us a picture of Pavlowa poised like a swiftly
-flying bird, or Genée looking like a bisque doll and spinning on one
+flying bird, or GenÃ©e looking like a bisque doll and spinning on one
 toe. Dancing, to us, means, first of all, rhythm. We look for rhythm in
 a geisha dance, and failing to find it--at least in the sense in which
 we understand the meaning of the word--we are baffled. It is only one
@@ -3677,7 +3645,7 @@ clever to adjust herself to the situation.
 
 During the meal the geisha will sit before or beside the gentleman she
 is designated to entertain, chatting with him, amusing him and serving
-him with saké. Afterward she will join the other geisha in giving an
+him with sakÃ©. Afterward she will join the other geisha in giving an
 entertainment, the part she takes in this depending upon her special
 talent, which may be for singing, playing, or dancing. Pretty young
 geisha are most often dancers, while those who are older are generally
@@ -3751,7 +3719,7 @@ clam-digging. In it the dancers held small trays which in pantomime they
 used as shovels, going through the motion of digging the clams out of
 the sand and throwing them into a basket. The dance was accompanied by a
 song, as was also another folk dance in which two of the maiko enacted
-the rôles of lovers who were obliged to part because the mother of the
+the rÃ´les of lovers who were obliged to part because the mother of the
 girl was forcing her to marry a rich man. I was interested to notice in
 this dance that the gesture to indicate weeping--the holding of one hand
 in front of the eyes at a distance of two or three inches from them--is
@@ -4068,8 +4036,8 @@ _gyunabe_ is the Mikawaya restaurant in the Yotsuya section, not far
 from the palace of the Crown Prince.
 
     [Illustration: A bill from the Kanetanaka teahouse, with items
-    of ¥ 26.30 for food, saké, etc., and ¥ 27.80 for "six
-    saké-servers (geisha) tips to geisha and their attendants."]
+    of Â¥ 26.30 for food, sakÃ©, etc., and Â¥ 27.80 for "six
+    sakÃ©-servers (geisha) tips to geisha and their attendants."]
 
 To be more specific about prices, I gave an excellent luncheon of this
 kind for four, at one of the Suyehiro restaurants, at a cost of about
@@ -4084,7 +4052,7 @@ quarterly.
 Adversaries of the geisha system informed me with the air of imparting
 scandal, that one sixth of all the money spent in Japan goes to geisha
 and things connected with geisha, presumably meaning restaurants,
-teahouses, saké and the like.
+teahouses, sakÃ© and the like.
 
 "A reformer," says Don Marquis, the Sage of Nassau Street, "is a dog in
 the manger who won't sin himself and won't let any one else sin
@@ -4181,7 +4149,7 @@ the Chinese character. There were, I think, about thirty of these
 sticks, and each represented a shogi. The number-one shogi was the most
 sought-after; number two ranked next, and so on. We were shown by the
 proprietress and some maids to a large matted room on the second floor,
-where saké, cakes and fruit were served to us. Then there appeared three
+where sakÃ©, cakes and fruit were served to us. Then there appeared three
 geisha of a most unusual kind. They were women fifty-five or sixty years
 of age, rather large, with faces genial, amusing, and respectable. These
 I was told were geisha with a great local reputation for boisterous wit.
@@ -4449,7 +4417,7 @@ The choice for the year 1921 was made from seventeen thousand poems sent
 from all parts of the Empire, and when announcement was made of the
 names of those whose poems were read at the Court, it was discovered
 that, among them was an American lady, Frances Hawkes Burnett, wife of
-Col. Charles Burnett, military attaché of the American Embassy at Tokyo.
+Col. Charles Burnett, military attachÃ© of the American Embassy at Tokyo.
 Mrs. Burnett thus attains the unique distinction of being the only
 foreign woman ever to have won Imperial approval with a poem in the
 Japanese language.
@@ -4531,7 +4499,7 @@ several centuries old; in that of Baron Okura, a famous museum of
 Chinese and Japanese antiquities and art works; and in the gardens of
 Baron Furukawa and Baron Sumitomo, smaller private museums. Tucked away
 in the corner of one garden near Kobe I had even seen a little factory
-in which the finest wireless cloisonné was being made, the owner of that
+in which the finest wireless cloisonnÃ© was being made, the owner of that
 garden having a deep interest in this art and using the productions of
 his artist-workmen to give as presents to his friends. And of course in
 many gardens I had seen houses built especially for the _cha-no-yu_, or
@@ -5301,7 +5269,7 @@ Majesty.' This poem he showed to Prince Yamagata, who took it to mean
 merely that Nogi would be in the procession following the Imperial
 remains to the grave.
 
-"But when the guns announced the departure of the funeral cortège from
+"But when the guns announced the departure of the funeral cortÃ¨ge from
 the palace, Nogi was not there. Like the samurai of old, he desired to
 follow his dead master into the beyond. At the sound of the guns he took
 his short sword and committed seppuku, while in the next room Countess
@@ -5347,7 +5315,7 @@ he were to underscore his protest--in red."
 
     _The Old-time Anti-Foreign Sentiment--Prince Yoshinobu
     Tokugawa--Emperor and Shogun--Prince Yoshinobu becomes
-    Shogun--His Highness, Akitaké, Goes to France--Humorous
+    Shogun--His Highness, AkitakÃ©, Goes to France--Humorous
     Episodes--The Defeat of Prince Yoshinobu's Army--Various
     Explanations--The Restoration of the Emperor--Prince Yoshinobu's
     Retirement--The Viscount's Theory--Prince Keikyu Tokugawa--A
@@ -5404,19 +5372,19 @@ track of all modern innovations and supervising the new-style military
 drill, with rifles, which we were then taking up.
 
 "Shortly after becoming Shogun, Yoshinobu decided to send his brother,
-Akitaké, to France to be educated, and he appointed me a member of the
+AkitakÃ©, to France to be educated, and he appointed me a member of the
 entourage that was to accompany the young man. I was then twenty-seven
 years old.
 
 "We sailed in January 1867--a party of twenty-five, among whom were a
 doctor, an officer who went to study artillery, and various others
-besides Akitaké's seven personal attendants.
+besides AkitakÃ©'s seven personal attendants.
 
 "For international purposes the Shogun was now called Tycoon, for the
 word 'shogun,' meaning 'generalissimo,' carried with it no connotation
 of rulership; whereas 'tycoon' means 'great prince'--and of course it
 seemed proper enough for a great prince to treat with foreign powers. As
-brother of the Tycoon, Akitaké received, in Europe, the title
+brother of the Tycoon, AkitakÃ© received, in Europe, the title
 'Highness'.
 
 "Matters looked very ominous for the shogunate at the time we left
@@ -5465,7 +5433,7 @@ publicly relinquishing the shogun's power and then fighting to maintain
 it. These seemingly conflicting acts puzzled me, for I knew that
 Yoshinobu was a man of the highest honour.
 
-"Presently came a messenger from Japan saying that Akitaké had become
+"Presently came a messenger from Japan saying that AkitakÃ© had become
 head of the Mito branch of the Tokugawa family, which made it necessary
 for us to abandon our plans and return. We sailed from England in
 December 1867, reaching Japan in November 1868, eleven months later.
@@ -5482,7 +5450,7 @@ mysterious course he had pursued.
 continued for thirty years to reside in the neighbourhood of Suruga,
 leading a secluded life. Not until thirty-one years after his
 resignation of the shogunate did he come to Tokyo. Four years later the
-Emperor created him a prince of the new régime. This showed pretty
+Emperor created him a prince of the new rÃ©gime. This showed pretty
 clearly that the Emperor had not mistrusted him.
 
 "For twenty years after my return to Japan I was unable to get at the
@@ -6192,7 +6160,7 @@ will tell you what is the trouble with the Japanese:
 "They are used to playing only with white chips!"
 
 The American housekeeper in Japan, if she knows what nerves are, may
-have similar difficulties. Her Japanese servants will conduct her ménage
+have similar difficulties. Her Japanese servants will conduct her mÃ©nage
 well enough if she lets them do it in their Japanese way, but if she
 attempts to run her home as she would run it in the United States, she
 is lost. It can't be done. I know of an American woman who could not get
@@ -6891,7 +6859,7 @@ Had California, in her desire to prevent the further acquirement of land
 by Japanese settlers, rested her case on these two clean-cut issues:
 namely, unassimilability and economic necessity; had she refrained from
 vituperation, taking up the matter purely on its merits; had she
-recognized her duty as a state to the Nation and coöperated with the
+recognized her duty as a state to the Nation and coÃ¶perated with the
 Washington Government, instead of ignoring the international bearing of
 the question and embarrassing the Government by radical and independent
 state action; and had she, above all, shown any disposition to deal as
@@ -7287,7 +7255,7 @@ feeling which then existed.
 Though he never visited Japan, Roosevelt, with his amazing understanding
 of people, managed to sense the Japanese perfectly. He knew their
 virtues and their failings. He realized precisely the state they had
-attained in their evolution from mediævalism to modernity. He knew their
+attained in their evolution from mediÃ¦valism to modernity. He knew their
 samurai loyalty and pride, their sensitiveness, their love of courtesy.
 
 "Speak softly and carry a big stick," he used to say. In those words is
@@ -7348,7 +7316,7 @@ boarded it, and was presently rocking along through open country at
 twenty-five or thirty miles an hour. There was something of solemn
 playfulness about that little train. The cars were no heavier than
 street cars and the locomotive would have made hard work of drawing a
-pair of Pullmans, yet in its present rôle it gave a pompous performance,
+pair of Pullmans, yet in its present rÃ´le it gave a pompous performance,
 hissing, whistling, and snorting as importantly as if it had been the
 engine of a great express. The little guards, too, joined gravely in the
 game, calling out the names of country stations as majestically as if
@@ -7408,7 +7376,7 @@ may get a variety of Japanese dishes, similarly packed.
 On this trip I selected a box of that delicacy known as _tai-meshi_, and
 was not sorry that my order for lunch had been overlooked at the hotel.
 Tai-meshi consists of a palatable combination of rice and shredded
-sea-bream cooked in a sauce containing saké which obliterates the fishy
+sea-bream cooked in a sauce containing sakÃ© which obliterates the fishy
 taste of the sea-bream. The box cost me the equivalent of seventeen
 cents, chop-sticks included. From the green-cap boy who sold it to me I
 also purchased, for five cents, an earthenware pot containing tea, and a
@@ -8118,7 +8086,7 @@ few minutes later we stepped from his skiff to a natural platform of
 granite at the island's edge. As we landed we were assimilated by a
 guide who began by indicating certain circular holes in the granite
 which, he declared, had been made by the hoofs of Yoritomo's horse. For
-legend has it that, when pursued, this mediæval military hero used
+legend has it that, when pursued, this mediÃ¦val military hero used
 Niemon Island as a hiding place. Nor are the horse's hoof-prints the
 only evidence supporting this tale. One may see the cave in which the
 great Yoritomo concealed himself.
@@ -8193,7 +8161,7 @@ away.
 
     _I Take Gen's Photograph--The Pay of Fisher-Folk--Where All the
     World Works--We Help Gen Pull Her Cart--And Surprise Some
-    Wayfarers--The Road Grows Long--Fairy Débutantes_
+    Wayfarers--The Road Grows Long--Fairy DÃ©butantes_
 
 
 In an exceptionally picturesque fishing village a few miles on, I paused
@@ -8399,7 +8367,7 @@ But now imagine another picture. Take those two men out of a situation
 in which one has manifestly an unfair advantage, and place them on an
 equal footing in a totally different environment. Take them, let us say,
 to an American city, place them in a ballroom, bring in a lot of
-beautiful débutantes--hundreds of them, all in pretty little evening
+beautiful dÃ©butantes--hundreds of them, all in pretty little evening
 gowns and satin slippers--start up the band. _Then_ see what happens!
 
 One of these men is a bookworm. He knows a lot about languages. He can
@@ -8411,9 +8379,9 @@ steps. In the intricate mazes of the dance he seems to float godlike
 through the air.
 
 All right! Now I ask you, which one of these two men is going to be a
-success with all those débutantes? Is Japanese going to advance a man
-very far with an American débutante? In all fairness I say No! A
-débutante is too clever--too clever with her feet--to be misled by mere
+success with all those dÃ©butantes? Is Japanese going to advance a man
+very far with an American dÃ©butante? In all fairness I say No! A
+dÃ©butante is too clever--too clever with her feet--to be misled by mere
 linguistic talent. True worth is the thing that counts with her. She
 looks for solid merit in a man. In other words: _What kind of a dancer
 is he?_
@@ -8436,7 +8404,7 @@ road.
 "They have lovely natures, these Japanese women," the linguist presently
 remarked.
 
-"If you'll look over a lot of American débutantes," I replied, "you'll
+"If you'll look over a lot of American dÃ©butantes," I replied, "you'll
 find that they are just about as----"
 
 "You don't understand," he interrupted. "I'm not talking about mere
@@ -8451,7 +8419,7 @@ trying to make me say something more enthusiastic, I would not be
 coerced. He was too much puffed up as it was.
 
 I had another reason, too, for withholding from that pretty peasant girl
-the fullest praise. I must be faithful to the débutantes who, from far
+the fullest praise. I must be faithful to the dÃ©butantes who, from far
 away, had come floating like a swarm of fairies to console me as I
 tugged Gen Tajima's lumbering cart along a dusty road upon the seacoast
 of Japan.
@@ -8809,7 +8777,7 @@ A more serious dilemma is revealed in the following:
     Up to this day, unfortunate enough, I am destined most
     unfavourably for the monetary circumstance, and consequently
     have no saving against worldly concerns, I am forced to ask you
-    for a loan of ¥ 25.00 to get rid of the burden befallen on me by
+    for a loan of Â¥ 25.00 to get rid of the burden befallen on me by
     the birth.
 
     I know it is the meanest of all to ask one's help for monetary
@@ -8959,7 +8927,7 @@ representations of the Buddhist god Daruma, that delightful egg-shaped
 comedian who will run out his tongue and his eyes for you, or, if not
 that, will refuse to stay down when you roll him over; in figurines
 without number, of ivory or wood; in sword-guards embellished with
-fantastic conceits; in those carved ivory buttons called _netsuké_,
+fantastic conceits; in those carved ivory buttons called _netsukÃ©_,
 treasured by collectors; and perhaps most often in Japanese
 colour-prints.
 
@@ -9122,7 +9090,7 @@ Sometimes we felt that the servants were showing us too much
 consideration. We dined out a great deal and were often late in getting
 home ("Home" was the term we found ourselves using there), yet however
 advanced the hour, the chauffeur would sound his horn on entering the
-gate, whereupon lights would flash on beneath the porte-cochère, the
+gate, whereupon lights would flash on beneath the porte-cochÃ¨re, the
 shoji at the entrance of the house would slide open, and three or four
 domestics would come out, dragging a wide strip of red velvet carpet,
 over which we would walk magnificently up the two steps leading to the
@@ -9815,365 +9783,4 @@ in the index some items are closed with periods, but most are not.
 
 
 
-***END OF THE PROJECT GUTENBERG EBOOK MYSTERIOUS JAPAN***
-
-
-******* This file should be named 57861-8.txt or 57861-8.zip *******
-
-
-This and all associated files of various formats will be found in:
-http://www.gutenberg.org/dirs/5/7/8/6/57861
-
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org 
-
-Section 3. Information about the Project Gutenberg Literary 
-Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 57861 ***
